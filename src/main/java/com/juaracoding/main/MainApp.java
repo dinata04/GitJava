@@ -8,6 +8,9 @@ public class MainApp {
 
 		System.out.println("tes");
 		System.out.println("tes");
+		
+		System.out.println("tes");	System.out.println("tes");
+		System.out.println("tes");	System.out.println("tes");
 
 	}
 }
